@@ -2,10 +2,12 @@
 
 This is a some data anlaysis and research I did to compare the stories I was hearing from all my family around the world of covid and covid lockdowns, to how people's actual movement was changing. 
 
-I have plotted [Google's Movement data](https://github.com/fionasilke/covid_global_mobility/blob/master/google_presentation.ipynb) in all the countries where I have family, and compared covid case and death numbers, and stories I heard from my family, supported by a little research. I had fun trialling out plotting and improving my use of loops, as well as establishing a structure for all my projects. 
+I have plotted and analyzed Google's movement data in all the countries where I have family, and compared covid case and death numbers, and stories I heard from my family, supported by a little research. I had fun trialling out plotting and improving my use of loops, as well as establishing a structure for all my projects. 
+
+The findings are found [google_presentation notebook](https://github.com/fionasilke/covid_global_mobility/blob/master/google_presentation.ipynb)
 
 Countries included:
-
+;plo
 - Australia: Sydney, Melbourne, Townsville
 - France: Loiret, Indre et Loire, Rhone du Bouches
 - United States: Washington State
